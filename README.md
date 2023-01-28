@@ -1,20 +1,11 @@
-### Hi there 👋
+Карточка профиля: 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rakavaqaflowt&theme=solarized_dark)
 
-<!--
-**RakaVaqaFlow/RakaVaqaFlow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Статистика языков в коммитах:
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rakavaqaflow&theme=solarized_dark)
 
-Here are some ideas to get you started:
+Статистика языков в репозиториях:
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rakavaqaflow&theme=solarized_dark)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!---Для компактной версии-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rakavaqaflow&layout=compact)](https://github.com/rakavaqaflow/github-readme-stats)
-
+Статистика профиля:
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rakavaqaflow&theme=solarized_dark)
