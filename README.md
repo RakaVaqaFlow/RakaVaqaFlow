@@ -1,3 +1,5 @@
+Bachelor of Computer Science Университет Иннополис, Россия
+2020-2024
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rakavaqaflowt&theme=solarized_dark)
 
